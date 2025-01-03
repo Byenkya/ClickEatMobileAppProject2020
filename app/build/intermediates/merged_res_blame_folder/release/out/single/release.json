@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/xml_network_security_config.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_resturants.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_resturants.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_edit_address.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_edit_address.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_keyboard_arrow_left_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_menu_custom_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/menu_custom_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/menu_nav_draw_menu.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/menu/nav_draw_menu.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_share_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_clickeat_breakfast_scaled.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/clickeat_breakfast_scaled.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/anim_layout_animation.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/anim/layout_animation.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_info_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_add_comment_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_add_comment_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_address_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/address_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_item.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_product_image_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/product_image_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_restaurant_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_restaurant_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_local_shipping_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_local_shipping_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_insert_comment_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_insert_comment_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_terminate_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/terminate_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_remove_shopping_cart_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_remove_shopping_cart_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_main.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_sign_up.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_comment_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_comment_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_fastfood_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_check_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/menu_menu_main.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_clickeat.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/clickeat.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_personal_account_info.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/personal_account_info.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_cloud_off_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_cloud_off_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_subcat_custom_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/subcat_custom_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_account_box_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_account_box_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_top_category_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/top_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sync_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sync_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_event_note_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_event_note_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_sub_category_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sub_category_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/menu_settings.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/menu/settings.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_order_step_1.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_step_1.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sentiment_satisfied_alt_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_alt_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_search.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout-v26_item.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout-v26/item.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_sample_products_from_different_subcat_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/sample_products_from_different_subcat_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sentiment_dissatisfied_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sentiment_dissatisfied_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_cart_items_heading_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/cart_items_heading_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/navigation_nav_graph.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_orders.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_deals_of_the_day_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/deals_of_the_day_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_order_cart_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_cart_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_receipt_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_receipt_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_clickeat_lunch_scaled.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/clickeat_lunch_scaled.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_cart.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/anim_shake_animation.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/anim/shake_animation.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_list_drinks.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_list_drinks.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_home_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_photo_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_photo_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_no_internet_connection.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/no_internet_connection.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_receipt_long_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_receipt_long_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_moped_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_moped_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sports_bar_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sports_bar_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_resturants.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/resturants.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_checkout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_drawer.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/drawer.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_free_breakfast_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_free_breakfast_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_how_to_reg_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_my_stepper.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_my_stepper.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_products_recommended_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/products_recommended_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_touch_app_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_touch_app_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_item_quantity_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/item_quantity_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_local_hospital_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/anim_item_animation_fall_down.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/anim/item_animation_fall_down.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_login_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_order_item_summary_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_item_summary_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_comment.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_comment.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_list_alt_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_list_alt_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_star_rate_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_home_sub_categories_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/home_sub_categories_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_assignment_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_assignment_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/navigation_navigation.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/navigation/navigation.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_forward_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_forward_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_comment_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/comment_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_loading.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/loading.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_mood_bad_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_mood_bad_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_reply_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_reply_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_content_main.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/anim_fade_in.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_rate_product_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/rate_product_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_add_shopping_cart_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_click_eat_dinner_scaled.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/click_eat_dinner_scaled.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_navigate_next_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_card_giftcard_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_card_giftcard_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_category.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_address_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/address_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_sub_category_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/sub_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/menu_menu_bottom_navigation.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/menu/menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_menu.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_corousel_view_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/corousel_view_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_power_settings_new_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/anim_fade_out.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_progress_dialog_view.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/progress_dialog_view.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_home.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_click_eat_image.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/click_eat_image.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_all_menu_items.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/all_menu_items.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_local_pizza_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_local_pizza_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_drinks_subcatitem_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/drinks_subcatitem_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_home_category_items.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/home_category_items.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_error_outline_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_error_outline_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_forgot_password.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_label_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_label_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_add_location_alt_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_add_location_alt_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/xml_searchable.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_order_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_drinks.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_drinks.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_order_summary_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_summary_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_rate.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_rate.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sentiment_very_satisfied_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sentiment_very_satisfied_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_custom_cat_items_holder.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/custom_cat_items_holder.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_custom_categories_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/custom_categories_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_calltoorder.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/calltoorder.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_new_address_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/new_address_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_close_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_change_password_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/change_password_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_loading_animation.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/loading_animation.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_more_products_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/more_products_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_account.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_cancel_presentation_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_cancel_presentation_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_sub_cat_products.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sub_cat_products.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_item_information.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/item_information.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_food_bank_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_food_bank_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_add_comment_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/add_comment_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_cart_item_layout.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/cart_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_sentiment_satisfied_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/drawable_ic_baseline_phone_in_talk_24.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/drawable/ic_baseline_phone_in_talk_24.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_payments.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_payments.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/res/merged/release/layout_fragment_login.xml.flat",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_login.xml"
+    }
+]

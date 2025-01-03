@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable name="viewModel" type="com.clickEat.ug.screens.custom_categories.CategoriesViewModel"/>
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.synnapps.carouselview.CarouselView
+            android:id="@+id/carouselView"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:paddingTop="0dp"
+            app:autoPlay="true"
+            app:carouselView="@{viewModel.home_images}"
+            app:fillColor="@color/colorPrimaryDark"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:pageColor="#00000000"
+            app:radius="6dp"
+            app:slideInterval="3000"
+            app:strokeColor="@color/cardview_light_background"
+            app:strokeWidth="2dp" />
+
+<!--        <com.denzcoskun.imageslider.ImageSlider-->
+<!--            android:id="@+id/carouselView"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="200dp"-->
+<!--            android:fitsSystemWindows="true"-->
+<!--            android:paddingTop="0dp"-->
+<!--            app:homeImageSlider="@{viewModel.home_images}"-->
+<!--            app:iss_auto_cycle="true"-->
+<!--            app:iss_delay="0"-->
+<!--            app:iss_error_image="@string/image_error"-->
+<!--            app:iss_period="3000"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

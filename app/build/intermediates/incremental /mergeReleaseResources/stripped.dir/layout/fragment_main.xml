@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+    
+                                                                                                         
+           
+    <LinearLayout
+        android:id="@+id/homeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:background="@color/cardview_light_background"
+        android:orientation="vertical"
+        android:padding="0dp"
+        android:visibility="gone"
+        tools:context=".screens.custom_categories.MainFragment" android:tag="layout/fragment_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/card_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/AllProducts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layoutAnimation="@anim/layout_animation"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:tag="binding_1"                             />
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+         
+

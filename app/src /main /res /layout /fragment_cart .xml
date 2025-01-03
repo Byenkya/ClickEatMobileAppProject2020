@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable name="cart_item" type="com.clickEat.ug.screens.cart.CartViewModel"/>
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".screens.cart.CartFragment">
+
+
+        <LinearLayout
+            android:id="@+id/cartLinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginBottom="60dp">
+
+                    <View
+                        android:id="@+id/divider12"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_margin="8dp"
+                        android:background="@color/cardview_light_background" />
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/viewWidgets"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/product_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="65dp"
+                            android:layout_marginLeft="65dp"
+                            android:text="@string/pdt"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toStartOf="@+id/quantity"
+                            app:layout_constraintHorizontal_bias="0.0"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            tools:ignore="RtlCompat" />
+
+                        <TextView
+                            android:id="@+id/quantity"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/quantity"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBaseline_toBaselineOf="@+id/product_name"
+                            app:layout_constraintEnd_toStartOf="@+id/unit_price"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/product_name" />
+
+                        <TextView
+                            android:id="@+id/unit_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/unit_price"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBaseline_toBaselineOf="@+id/quantity"
+                            app:layout_constraintEnd_toStartOf="@+id/total"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/quantity" />
+
+                        <TextView
+                            android:id="@+id/total"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="50dp"
+                            android:text="@string/total"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBaseline_toBaselineOf="@+id/unit_price"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/unit_price"
+                            tools:ignore="RtlCompat" />
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                    <View
+                        android:id="@+id/divider2"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_margin="8dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:visibility="gone"/>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/cart_items"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:paddingStart="4dp"
+                        android:paddingEnd="4dp"
+                        android:visibility="gone"
+                        android:layoutAnimation="@anim/layout_animation"
+                        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                        tools:itemCount="5"
+                        tools:listitem="@layout/cart_item_layout"
+                        app:cartProducts="@{cart_item.cart}"/>
+
+                    <View
+                        android:id="@+id/divider3"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_margin="8dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:visibility="gone"/>
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/linearLayout2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        tools:layout_editor_absoluteY="440dp"
+                        android:visibility="gone">
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/total_label"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="center"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBaseline_toBaselineOf="@+id/total_amount"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/total_amount"
+                            tools:ignore="RtlCompat"
+                            tools:text="100000"
+                            app:cartTotal="@{cart_item.cart}"/>
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/total_amount"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/total"
+                            android:textAlignment="center"
+                            android:textColor="@color/design_default_color_on_secondary"
+                            android:textStyle="bold"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toStartOf="@+id/total_label"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                    <View
+                        android:id="@+id/divider4"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_margin="8dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:visibility="gone"/>
+
+<!--                    <com.google.android.material.button.MaterialButton-->
+<!--                        android:id="@+id/checkoutPageNav"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_marginLeft="8dp"-->
+<!--                        android:layout_marginTop="8dp"-->
+<!--                        android:layout_marginRight="8dp"-->
+<!--                        android:text="Proceed To Checkout"-->
+<!--                        android:textColor="@color/cardview_light_background"-->
+<!--                        android:textStyle="bold"-->
+<!--                        android:visibility="gone"-->
+<!--                        app:backgroundTint="@color/colorPrimary"-->
+<!--                        app:icon="@drawable/ic_baseline_navigate_next_24"-->
+<!--                        app:iconTint="@color/cardview_light_background"-->
+<!--                        app:rippleColor="@color/colorPrimaryDark" />-->
+
+                </LinearLayout>
+            </androidx.core.widget.NestedScrollView>
+        </LinearLayout>
+    </FrameLayout>
+</layout>

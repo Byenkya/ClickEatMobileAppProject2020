@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable name="cartItem" type="com.clickEat.ug.data.CartItemFromServer"/>
+        <variable name="update_cart" type="com.clickEat.ug.screens.cart.UpdateCartInformation"/>
+        <variable name="del_cart" type="com.clickEat.ug.screens.cart.DeleteCartItem"/>
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:paddingTop="4dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/product_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:layout_constraintEnd_toStartOf="@+id/pdt_name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:productImage="@{cartItem}" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/pdt_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            app:layout_constraintBottom_toBottomOf="@+id/product_image"
+            app:layout_constraintEnd_toStartOf="@+id/pdt_quantity"
+            app:layout_constraintStart_toEndOf="@+id/product_image"
+            app:layout_constraintTop_toTopOf="@+id/product_image"
+            app:productName="@{cartItem}"
+            tools:text="TextView" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/pdt_quantity"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginEnd="8dp"
+            android:onClick="@{() -> update_cart.updateCartInfo(cartItem)}"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:backgroundTint="@color/cardview_light_background"
+            app:cornerRadius="10dp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/pdt_name"
+            app:layout_constraintEnd_toStartOf="@+id/pdt_unit_price"
+            app:layout_constraintStart_toEndOf="@+id/pdt_name"
+            app:productQuantity="@{cartItem}"
+            app:rippleColor="@color/colorPrimary"
+            app:strokeColor="@color/colorPrimary"
+            app:strokeWidth="1dp"
+            tools:ignore="RtlCompat" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/pdt_unit_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:gravity="center"
+            app:layout_constraintBaseline_toBaselineOf="@+id/pdt_quantity"
+            app:layout_constraintEnd_toStartOf="@+id/pdt_total"
+            app:layout_constraintStart_toEndOf="@+id/pdt_quantity"
+            app:unitPrice="@{cartItem}"
+            tools:ignore="RtlCompat"
+            tools:text="TextView" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/pdt_total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:layout_constraintBaseline_toBaselineOf="@+id/pdt_unit_price"
+            app:layout_constraintEnd_toStartOf="@+id/del_pdt"
+            app:layout_constraintStart_toEndOf="@+id/pdt_unit_price"
+            app:productTotal="@{cartItem}"
+            tools:ignore="RtlCompat"
+            tools:text="TextView" />
+
+        <ImageButton
+            android:id="@+id/del_pdt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/cardview_light_background"
+            android:onClick="@{() -> del_cart.deleteCartItemData(cartItem)}"
+            app:layout_constraintBottom_toBottomOf="@+id/pdt_total"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/pdt_total"
+            app:layout_constraintTop_toTopOf="@+id/pdt_total"
+            app:srcCompat="@drawable/ic_baseline_delete_24" />
+
+        <LinearLayout
+            android:id="@+id/served_with_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="vertical"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/pdt_quantity">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/served_with_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginRight="8dp"
+                android:text="TextView"
+                android:textColor="@color/secondaryTextColor"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/pdt_quantity"
+                app:served_with="@{cartItem}" />
+
+            <View
+                android:id="@+id/divider12"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="8dp"
+                android:background="@color/secondaryTextColor" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

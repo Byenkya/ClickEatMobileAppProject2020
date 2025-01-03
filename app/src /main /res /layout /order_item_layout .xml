@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable name="order" type="com.clickEat.ug.data.CustomerPlaceOrder"/>
+        <variable name="order_details" type="com.clickEat.ug.screens.orders.OrderInformation"/>
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:orientation="horizontal"
+        android:onClick="@{() -> order_details.showOrderWithDetails(order)}">
+
+        <TextView
+            android:id="@+id/orderRef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/ic_baseline_receipt_long_24"
+            android:drawablePadding="8dp"
+            android:text="TextView"
+            android:textColor="@color/design_default_color_on_secondary"
+            android:textSize="18sp"
+            app:orderRef="@{order}" />
+
+
+        <ImageView
+            android:id="@+id/viewMoreInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_baseline_info_24"
+            app:tint="#FF5722" />
+    </LinearLayout>
+</layout>

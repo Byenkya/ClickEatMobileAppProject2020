@@ -1,0 +1,132 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ClickEat</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_orders">My Orders</string>
+    <string name="click_eat_image">click_eat_image</string>
+    <string name="acount">Account</string>
+    <string name="logout">Logout</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="view_menu">View Menu</string>
+    <string name="categories">Categories</string>
+    <string name="oasis">Oasis 24/7</string>
+    <string name="bamboo">Bamboo</string>
+    <string name="capital_one">Capital One</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="submit">Add</string>
+    <string name="sign_up">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="address">Address</string>
+    <string name="county">County</string>
+    <string name="sub_county">Sub county</string>
+    <string name="village">Village</string>
+    <string name="other_details">Describe Your Exact Location</string>
+    <string name="default_address">Default Address</string>
+    <string name="save_details">Register</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
+    <string name="register">Register</string>
+    <string name="view_details">View Details</string>
+    <string name="desc">Description</string>
+    <string name="pdt">Product</string>
+    <string name="price">Price</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="quantity">Quantity</string>
+    <string name="amount">Amount</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="total">Total</string>
+    <string name="cancel">Cancel</string>
+    <string name="where_do_you_want_it_delivered">How do you want to receive your order?</string>
+    <string name="existing_addresses">Select from existing Addresses</string>
+    <string name="new_address">Enter new Address</string>
+    <string name="save_address">Save Address</string>
+    <string name="your_new_address">Your New Address</string>
+    <string name="your_delivery_address">Your Delivery Address</string>
+    <string name="set_as_default">Set As Default Delivery Address</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_cart_title"> Sub Total</string>
+    <string name="select_payment_method">Select Payment Method</string>
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="id">ID</string>
+    <string name="order_ref">Order Ref:</string>
+    <string name="order_id">Order ID:</string>
+    <string name="order_simplve_version">Order Reference no:</string>
+    <string name="is_paid">Is paid</string>
+    <string name="is_prepared">Prepared</string>
+    <string name="terminated">Terminated</string>
+    <string name="reason_label">Reason:</string>
+    <string name="received">Received</string>
+    <string name="delivery_fee">Delivery fee:</string>
+    <string name="order_date">Order Date:</string>
+    <string name="paid">Paid</string>
+    <string name="terminate_order">Terminate Order</string>
+    <string name="reply">Reply:</string>
+    <string name="add_comment">Comment</string>
+    <string name="rest">Restaurant</string>
+    <string name="rating">Rating</string>
+    <string name="rate">Rate</string>
+    <string name="bad">Bad</string>
+    <string name="fair">Fair</string>
+    <string name="good">Good</string>
+    <string name="very_good">Very Good</string>
+    <string name="excellent">Excellent</string>
+    <string name="update_info">Update Info</string>
+    <string name="change_password">Change Password</string>
+    <string name="show_password">password</string>
+    <string name="delivery_info">Delivery Information(My Addresses)</string>
+    <string name="add_address">Add Address</string>
+    <string name="about_click_eat">About</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="search_string">Search</string>
+    <string name="home">ClickEat</string>
+    <string name="update_address">Update Address</string>
+    <string name="about_click_eat_desc">
+        The ClickEat Food app makes it simple and effortless for anybody to use a mobile device to look over the menu of the best Restaurants and Hotels,
+        that offer delicious and scrumptious meals around Arua City and place an order for home, office and chilling spot delivery.\n\n
+
+        For any queries contact us on:\n\n
+        \tEmail: amobittechnologiez@gmail.com\n\n
+        Contacts:\n\n
+        \t1. 0785857000\n\n
+        \t2. 0752688849\n\n
+        \t3. 0787789799
+    </string>
+    <string name="cart">Cart</string>
+    <string name="share">Share App</string>
+    <string name="select_village">Select Village</string>
+    <string name="contact">Contact</string>
+    <string name="ordernum1">0785857000</string>
+    <string name="ordernum2">0752688849</string>
+    <string name="ordernum3">0787789799</string>
+    <string name="orders">Orders</string>
+    <string name="home_menu">Home</string>
+    <string name="see_more">see more</string>
+    <string name="drinks">Drinks</string>
+    <string name="call_to_order">Call to Order</string>
+    <string name="view_more">View More</string>
+    <string name="no_comments">No comments</string>
+    <string name="deals_of_the_day">Deals Of The Day</string>
+    <string name="top_categories">Top Categories</string>
+    <string name="break_fast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="served_with">Served With:</string>
+    <string name="change_address">Change Delivery Address</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="pre_order_message">If you want to make this order later on:</string>
+    <string name="pre_order">Pre Order</string>
+    <string name="pre_order_date_details">Pre order date details:</string>
+    <string name="get_it_where_you_are">Get it where you are.</string>
+    <string name="image_error" tools:ignore="ReferenceType">@drawable/ic_baseline_photo_24</string>
+</resources>

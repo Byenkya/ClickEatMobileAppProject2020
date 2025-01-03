@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/change_password_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/change_password_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_categories_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/custom_categories_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_image_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/product_image_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_category_items.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/home_category_items.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_rate.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_rate.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cart.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_list_drinks.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_list_drinks.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/no_internet_connection.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/no_internet_connection.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/address_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/address_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_checkout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/new_address_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/new_address_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/personal_account_info.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/personal_account_info.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/deals_of_the_day_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/deals_of_the_day_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_stepper.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_my_stepper.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/products_recommended_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/products_recommended_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_cart_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_cart_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sub_category_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sub_category_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_cat_items_holder.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/custom_cat_items_holder.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_custom_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/menu_custom_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/all_menu_items.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/all_menu_items.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_sub_categories_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/home_sub_categories_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/resturants.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/resturants.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sign_up.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_category.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_edit_address.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_edit_address.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/more_products_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/more_products_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_menu.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sample_products_from_different_subcat_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/sample_products_from_different_subcat_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_resturants.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_resturants.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rate_product_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/rate_product_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comment_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/comment_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/drinks_subcatitem_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/drinks_subcatitem_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/top_category_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/top_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_item_summary_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/order_item_summary_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_drinks.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_drinks.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_forgot_password.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_information.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/item_information.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_account.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/address_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/address_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sub_cat_products.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_sub_cat_products.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_orders.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_comment.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_comment.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_payments.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_payments.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cart_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/cart_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/subcat_custom_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/subcat_custom_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/corousel_view_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/corousel_view_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sub_category_item_layout.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/sub_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/res/layout/fragment_home.xml"
+    }
+]

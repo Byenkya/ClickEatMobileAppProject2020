@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.clickEat.ug"
+4    android:versionCode="23"
+5    android:versionName="3.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:4:5-66
+11-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:5:5-78
+12-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:6:5-79
+13-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:6:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:7:5-80
+14-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:7:22-78
+15
+16    <!-- Permission will be merged into the manifest of the hosting app. -->
+17    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:8:3-74
+18-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:8:20-72
+19
+20    <application
+20-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:9:5-32:19
+21        android:name="androidx.multidex.MultiDexApplication"
+22        android:allowBackup="true"
+22-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.2] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/0381dedf8b01c0ef70731d278f10357b/core-1.3.2/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:11:9-43
+26        android:label="@string/app_name"
+26-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:12:9-41
+27        android:largeHeap="true"
+27-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:15:9-33
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:14:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:13:9-54
+30        android:supportsRtl="true"
+30-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:16:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:17:9-40
+33        <activity
+33-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:18:9-31:20
+34            android:name="com.clickEat.ug.MainActivity"
+34-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:19:13-56
+35            android:label="@string/app_name"
+35-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:20:13-45
+36            android:screenOrientation="portrait"
+36-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:21:13-49
+37            android:theme="@style/AppTheme.NoActionBar" >
+37-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:22:13-56
+38            <intent-filter>
+38-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:23:13-28:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:24:17-69
+39-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:24:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:26:17-77
+41-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:26:27-74
+42
+43                <action android:name="android.intent.action.SEARCH" />
+43-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:27:17-70
+43-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:27:25-68
+44            </intent-filter>
+45
+46            <meta-data
+46-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:29:13-30:53
+47                android:name="android.app.searchable"
+47-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:29:24-61
+48                android:resource="@xml/searchable" />
+48-->/home/jbaaron123/AndroidStudioProjects/click_eat/app/src/main/AndroidManifest.xml:30:17-51
+49        </activity>
+50
+51        <provider
+51-->[com.squareup.picasso:picasso:2.71828] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/f8f5e55e5b6290c20f41f06ef42cff5d/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+52            android:name="com.squareup.picasso.PicassoProvider"
+52-->[com.squareup.picasso:picasso:2.71828] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/f8f5e55e5b6290c20f41f06ef42cff5d/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+53            android:authorities="com.clickEat.ug.com.squareup.picasso"
+53-->[com.squareup.picasso:picasso:2.71828] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/f8f5e55e5b6290c20f41f06ef42cff5d/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+54            android:exported="false" />
+54-->[com.squareup.picasso:picasso:2.71828] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/f8f5e55e5b6290c20f41f06ef42cff5d/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+55
+56        <service
+56-->[androidx.room:room-runtime:2.2.5] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/78b997e550463130221545304b538af4/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+57            android:name="androidx.room.MultiInstanceInvalidationService"
+57-->[androidx.room:room-runtime:2.2.5] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/78b997e550463130221545304b538af4/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+58            android:directBootAware="true"
+58-->[androidx.room:room-runtime:2.2.5] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/78b997e550463130221545304b538af4/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+59            android:exported="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+59-->[androidx.room:room-runtime:2.2.5] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/78b997e550463130221545304b538af4/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+60        <activity
+60-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:5-271
+61            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+61-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:15-102
+62            android:enabled="false"
+62-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:103-126
+63            android:exported="false"
+63-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:127-151
+64            android:launchMode="singleInstance"
+64-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:204-239
+65            android:process=":playcore_missing_splits_activity"
+65-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:152-203
+66            android:stateNotNeeded="true" />
+66-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:12:240-269
+67        <activity
+67-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:5-226
+68            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+68-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:15-95
+69            android:enabled="false"
+69-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:96-119
+70            android:exported="false"
+70-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:120-144
+71            android:stateNotNeeded="true"
+71-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:145-174
+72            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+72-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:13:175-224
+73        <service
+73-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:16:5-18:15
+74            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+74-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:16:14-95
+75            android:enabled="false"
+75-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:16:96-119
+76            android:exported="true" >
+76-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:16:120-143
+77            <meta-data
+77-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:17:7-108
+78                android:name="com.google.android.play.core.assetpacks.versionCode"
+78-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:17:18-84
+79                android:value="11000" />
+79-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:17:85-106
+80        </service>
+81        <service
+81-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:19:5-147
+82            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+82-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:19:14-96
+83            android:enabled="false"
+83-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:19:97-120
+84            android:exported="false" />
+84-->[com.google.android.play:core:1.10.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/61d018b6ac033a08dcf6e056503b8ad2/jetified-core-1.10.0/AndroidManifest.xml:19:121-145
+85
+86        <provider
+86-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/a3dceae08496ab74d8eb189b92885eab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+87            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/a3dceae08496ab74d8eb189b92885eab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+88            android:authorities="com.clickEat.ug.lifecycle-process"
+88-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/a3dceae08496ab74d8eb189b92885eab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+89            android:exported="false"
+89-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/a3dceae08496ab74d8eb189b92885eab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+90            android:multiprocess="true" />
+90-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/jbaaron123/.gradle/caches/transforms-2/files-2.1/a3dceae08496ab74d8eb189b92885eab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+91    </application>
+92
+93</manifest>

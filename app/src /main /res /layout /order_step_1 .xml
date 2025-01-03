@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/address_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="@string/where_do_you_want_it_delivered"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/deliveryOptionsAvailable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/existing_addresses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/existing_addresses"
+            android:buttonTint="@color/colorPrimaryDark"/>
+
+
+        <RadioButton
+            android:id="@+id/new_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/new_address"
+            android:buttonTint="@color/colorPrimaryDark" />
+
+
+    </RadioGroup>
+
+</LinearLayout>

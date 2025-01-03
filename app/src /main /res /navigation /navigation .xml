@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainFragment"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.clickEat.ug.screens.custom_categories.MainFragment"
+        android:label="@string/categories"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_mainFragment_to_ordersFragment"
+            app:destination="@id/ordersFragment"
+            app:enterAnim="@anim/fade_in"
+            app:exitAnim="@anim/fade_out"
+            app:popUpTo="@id/mainFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_mainFragment_to_accountFragment"
+            app:destination="@id/accountFragment"
+            app:popUpTo="@id/mainFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_mainFragment_to_resturantsFragment"
+            app:destination="@id/resturantsFragment"
+            app:enterAnim="@android:anim/slide_out_right"
+            app:popUpTo="@id/mainFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_signUpFragment"
+            app:destination="@id/signUp"
+            app:popUpTo="@id/login" />
+        <action
+            android:id="@+id/action_mainFragment_to_loginFragment"
+            app:destination="@id/login"
+            app:popUpTo="@id/mainFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_mainFragment_to_cartFragment2"
+            app:destination="@id/cartFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_drinksFragment"
+            app:destination="@id/drinksFragment"
+            app:enterAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_mainFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/mainFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_commentFragment"
+            app:destination="@id/commentFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_subCatProductsFragment"
+            app:destination="@id/subCatProductsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_checkoutFragment"
+            app:destination="@id/checkoutFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_editAddressFragment2"
+            app:destination="@id/editAddressFragment2" />
+        <action
+            android:id="@+id/action_mainFragment_to_categoryFragment"
+            app:destination="@id/categoryFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_subCategoryLayoutFragment"
+            app:destination="@id/subCategoryLayoutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ordersFragment"
+        android:name="com.clickEat.ug.screens.orders.OrdersFragment"
+        android:label="Orders"
+        tools:layout="@layout/fragment_orders" >
+    </fragment>
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.clickEat.ug.screens.categories.CategoryFragment"
+        android:label="Category"
+        tools:layout="@layout/fragment_category">
+        <argument
+            android:name="categoryName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.clickEat.ug.screens.account.AccountFragment"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account">
+        <action
+            android:id="@+id/action_accountFragment_to_editAddressFragment2"
+            app:destination="@id/editAddressFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/resturantsFragment"
+        android:name="com.clickEat.ug.screens.resturants.ResturantsFragment"
+        android:label="Restaurants">
+        <action
+            android:id="@+id/action_resturantsFragment_to_menuFragment"
+            app:destination="@id/menuFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:popUpTo="@id/resturantsFragment" />
+        <action
+            android:id="@+id/action_resturantsFragment_to_cartFragment"
+            app:destination="@id/cartFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.clickEat.ug.screens.menu.MenuFragment"
+        android:label="Menu">
+        <argument
+            android:name="restaurant_id"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_menuFragment_to_cartFragment"
+            app:destination="@id/cartFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_commentFragment"
+            app:destination="@id/commentFragment"
+            app:enterAnim="@android:anim/slide_out_right" />
+        <argument android:name="restaurantName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_menuFragment_to_accountFragment"
+            app:destination="@id/accountFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_ordersFragment"
+            app:destination="@id/ordersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/login"
+        android:name="com.clickEat.ug.screens.login.LoginFragment"
+        android:label="SignIn">
+        <action
+            android:id="@+id/action_loginFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:enterAnim="@anim/fade_in" />
+        <action
+            android:id="@+id/action_login_to_cartFragment"
+            app:destination="@id/cartFragment" />
+        <action
+            android:id="@+id/action_login_to_forgotPasswordFragment"
+            app:destination="@id/forgotPasswordFragment"
+            app:enterAnim="@anim/fade_out"
+            app:popUpTo="@id/login" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUp"
+        android:name="com.clickEat.ug.screens.signup.SignUpFragment"
+        android:label="Register">
+        <action
+            android:id="@+id/action_signUpFragment_to_loginFragment"
+            app:destination="@id/login"
+            app:popUpTo="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.clickEat.ug.screens.cart.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/fragment_cart">
+        <action
+            android:id="@+id/action_cartFragment_to_checkoutFragment"
+            app:destination="@id/checkoutFragment"
+            app:enterAnim="@anim/fade_in" />
+        <action
+            android:id="@+id/action_cartFragment_to_resturantsFragment"
+            app:destination="@id/resturantsFragment"
+            app:popUpTo="@id/navigation" />
+    </fragment>
+    <fragment
+        android:id="@+id/checkoutFragment"
+        android:name="com.clickEat.ug.screens.checkout.CheckoutFragment"
+        android:label="Check Out">
+        <argument
+            android:name="customer_id"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_checkoutFragment_to_resturantsFragment"
+            app:destination="@id/resturantsFragment"
+            app:popUpTo="@id/navigation" />
+        <action
+            android:id="@+id/action_checkoutFragment_to_editAddressFragment2"
+            app:destination="@id/editAddressFragment2"
+            app:enterAnim="@anim/fade_in" />
+    </fragment>
+    <fragment
+        android:id="@+id/commentFragment"
+        android:name="com.clickEat.ug.screens.comment.CommentFragment"
+        android:label="Comments">
+        <argument
+            android:name="productId"
+            app:argType="integer" />
+        <argument
+            android:name="productName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/rateFragment"
+        android:name="com.clickEat.ug.screens.rate.RateFragment"
+        android:label="RateFragment">
+        <argument
+            android:name="selectedProduct"
+            app:argType="com.clickEat.ug.data.Product"/>
+        <action
+            android:id="@+id/action_rateFragment_to_commentFragment"
+            app:destination="@id/commentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/drinksFragment"
+        android:name="com.clickEat.ug.screens.drinks.DrinksFragment"
+        android:label="Drinks" >
+        <action
+            android:id="@+id/action_drinksFragment_to_listDrinksFragment"
+            app:destination="@id/listDrinksFragment"
+            app:enterAnim="@anim/fade_in"
+            app:popUpTo="@id/drinksFragment" />
+        <action
+            android:id="@+id/action_drinksFragment_to_cartFragment3"
+            app:destination="@id/cartFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/listDrinksFragment"
+        android:name="com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragment"
+        android:label="Drinks">
+        <argument
+            android:name="drinksSubCatID"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_listDrinksFragment_to_cartFragment"
+            app:destination="@id/cartFragment" />
+        <action
+            android:id="@+id/action_listDrinksFragment_to_commentFragment"
+            app:destination="@id/commentFragment"
+            app:enterAnim="@android:anim/slide_out_right" />
+        <argument
+            android:name="catType"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_listDrinksFragment_to_rateFragment2"
+            app:destination="@id/rateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/forgotPasswordFragment"
+        android:name="com.clickEat.ug.screens.forgot_password.ForgotPasswordFragment"
+        android:label="Forgot Password"
+        tools:layout="@layout/fragment_forgot_password" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.clickEat.ug.screens.home.HomeFragment" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.clickEat.ug.screens.search.SearchFragment"
+        android:label="Search">
+        <action
+            android:id="@+id/action_searchFragment_to_cartFragment"
+            app:destination="@id/cartFragment"
+            app:enterAnim="@anim/fade_in" />
+        <action
+            android:id="@+id/action_searchFragment_to_commentFragment"
+            app:destination="@id/commentFragment"
+            app:popUpTo="@id/searchFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editAddressFragment2"
+        android:name="com.clickEat.ug.screens.edit_address.EditAddressFragment"
+        android:label="EditAddress">
+        <argument
+            android:name="addressID"
+            app:argType="integer" />
+        <argument
+            android:name="otherDetails"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_editAddressFragment2_to_accountFragment"
+            app:destination="@id/accountFragment" />
+        <action
+            android:id="@+id/action_editAddressFragment2_to_ordersFragment"
+            app:destination="@id/ordersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personalInfoFragment2"
+        android:name="com.clickEat.ug.screens.account.PersonalInfoFragment"
+        android:label="PersonalInfoFragment" >
+        <action
+            android:id="@+id/action_personalInfoFragment2_to_editAddressFragment2"
+            app:destination="@id/editAddressFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/subCatProductsFragment"
+        android:name="com.clickEat.ug.screens.subcatproducts.SubCatProductsFragment"
+        android:label="SubCatProductsFragment" >
+        <argument
+            android:name="subCatId"
+            app:argType="integer" />
+        <argument
+            android:name="subCatName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_subCatProductsFragment_to_commentFragment"
+            app:destination="@id/commentFragment" />
+        <action
+            android:id="@+id/action_subCatProductsFragment_to_cartFragment"
+            app:destination="@id/cartFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/subCategoryLayoutFragment"
+        android:name="com.clickEat.ug.screens.sub_categories.SubCategoryLayoutFragment"
+        android:label="Sub Categories">
+        <action
+            android:id="@+id/action_subCategoryLayoutFragment_to_subCatProductsFragment"
+            app:destination="@id/subCatProductsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/myStepperFragment"
+        android:name="com.clickEat.ug.screens.stepper_layout.MyStepperFragment"
+        android:label="Checkout Steps" />
+</navigation>

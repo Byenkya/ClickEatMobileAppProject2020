@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/cat"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/categories" />
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="@string/cart" />
+    <item
+        android:id="@+id/orders"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:title="@string/my_orders" />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="@string/acount" />
+
+    <item
+        android:id="@+id/signin"
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="@string/sign_in" />
+    <item
+        android:id="@+id/signup"
+        android:icon="@drawable/ic_baseline_how_to_reg_24"
+        android:title="@string/register" />
+</menu>

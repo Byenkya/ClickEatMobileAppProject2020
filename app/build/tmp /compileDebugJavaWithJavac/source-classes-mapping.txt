@@ -1,0 +1,371 @@
+com/clickEat/ug/databinding/FragmentLoginBinding.java
+ com.clickEat.ug.databinding.FragmentLoginBinding
+com/clickEat/ug/screens/menu/MenuFragmentDirections.java
+ com.clickEat.ug.screens.menu.MenuFragmentDirections
+ com.clickEat.ug.screens.menu.MenuFragmentDirections$1
+ com.clickEat.ug.screens.menu.MenuFragmentDirections$ActionMenuFragmentToCommentFragment
+com/clickEat/ug/databinding/FragmentDrinksBinding.java
+ com.clickEat.ug.databinding.FragmentDrinksBinding
+com/clickEat/ug/databinding/CartItemLayoutBinding.java
+ com.clickEat.ug.databinding.CartItemLayoutBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/clickEat/ug/databinding/FragmentResturantsBinding.java
+ com.clickEat.ug.databinding.FragmentResturantsBinding
+com/clickEat/ug/databinding/NoInternetConnectionBindingImpl.java
+ com.clickEat.ug.databinding.NoInternetConnectionBindingImpl
+com/clickEat/ug/screens/comment/CommentFragmentArgs.java
+ com.clickEat.ug.screens.comment.CommentFragmentArgs
+ com.clickEat.ug.screens.comment.CommentFragmentArgs$1
+ com.clickEat.ug.screens.comment.CommentFragmentArgs$Builder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/clickEat/ug/databinding/RateProductLayoutBindingImpl.java
+ com.clickEat.ug.databinding.RateProductLayoutBindingImpl
+com/clickEat/ug/screens/edit_address/EditAddressFragmentDirections.java
+ com.clickEat.ug.screens.edit_address.EditAddressFragmentDirections
+com/clickEat/ug/databinding/FragmentHomeBinding.java
+ com.clickEat.ug.databinding.FragmentHomeBinding
+com/clickEat/ug/databinding/AddressLayoutBinding.java
+ com.clickEat.ug.databinding.AddressLayoutBinding
+com/clickEat/ug/screens/checkout/CheckoutFragmentDirections.java
+ com.clickEat.ug.screens.checkout.CheckoutFragmentDirections
+ com.clickEat.ug.screens.checkout.CheckoutFragmentDirections$1
+ com.clickEat.ug.screens.checkout.CheckoutFragmentDirections$ActionCheckoutFragmentToEditAddressFragment2
+com/clickEat/ug/databinding/FragmentAccountBinding.java
+ com.clickEat.ug.databinding.FragmentAccountBinding
+com/clickEat/ug/databinding/FragmentSignUpBinding.java
+ com.clickEat.ug.databinding.FragmentSignUpBinding
+com/clickEat/ug/databinding/ResturantsBinding.java
+ com.clickEat.ug.databinding.ResturantsBinding
+com/clickEat/ug/databinding/FragmentListDrinksBinding.java
+ com.clickEat.ug.databinding.FragmentListDrinksBinding
+com/clickEat/ug/databinding/FragmentMyStepperBinding.java
+ com.clickEat.ug.databinding.FragmentMyStepperBinding
+com/clickEat/ug/databinding/FragmentForgotPasswordBinding.java
+ com.clickEat.ug.databinding.FragmentForgotPasswordBinding
+com/clickEat/ug/databinding/MoreProductsLayoutBinding.java
+ com.clickEat.ug.databinding.MoreProductsLayoutBinding
+com/clickEat/ug/BR.java
+ com.clickEat.ug.BR
+com/clickEat/ug/databinding/FragmentSignUpBindingImpl.java
+ com.clickEat.ug.databinding.FragmentSignUpBindingImpl
+com/clickEat/ug/databinding/FragmentForgotPasswordBindingImpl.java
+ com.clickEat.ug.databinding.FragmentForgotPasswordBindingImpl
+com/clickEat/ug/databinding/PersonalAccountInfoBindingImpl.java
+ com.clickEat.ug.databinding.PersonalAccountInfoBindingImpl
+com/clickEat/ug/databinding/AllMenuItemsBinding.java
+ com.clickEat.ug.databinding.AllMenuItemsBinding
+com/clickEat/ug/databinding/FragmentCommentBinding.java
+ com.clickEat.ug.databinding.FragmentCommentBinding
+com/clickEat/ug/databinding/MenuCustomLayoutBindingImpl.java
+ com.clickEat.ug.databinding.MenuCustomLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentSubCatProductsBindingImpl.java
+ com.clickEat.ug.databinding.FragmentSubCatProductsBindingImpl
+com/clickEat/ug/databinding/FragmentDrinksBindingImpl.java
+ com.clickEat.ug.databinding.FragmentDrinksBindingImpl
+com/clickEat/ug/databinding/CustomCatItemsHolderBinding.java
+ com.clickEat.ug.databinding.CustomCatItemsHolderBinding
+com/clickEat/ug/screens/subcatproducts/SubCatProductsFragmentDirections.java
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentDirections
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentDirections$1
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentDirections$ActionSubCatProductsFragmentToCommentFragment
+com/clickEat/ug/databinding/AddressItemLayoutBinding.java
+ com.clickEat.ug.databinding.AddressItemLayoutBinding
+com/clickEat/ug/databinding/PersonalAccountInfoBinding.java
+ com.clickEat.ug.databinding.PersonalAccountInfoBinding
+com/clickEat/ug/databinding/ChangePasswordLayoutBinding.java
+ com.clickEat.ug.databinding.ChangePasswordLayoutBinding
+com/clickEat/ug/databinding/HomeSubCategoriesLayoutBinding.java
+ com.clickEat.ug.databinding.HomeSubCategoriesLayoutBinding
+com/clickEat/ug/databinding/FragmentMainBinding.java
+ com.clickEat.ug.databinding.FragmentMainBinding
+com/clickEat/ug/screens/signup/SignUpFragmentDirections.java
+ com.clickEat.ug.screens.signup.SignUpFragmentDirections
+com/clickEat/ug/screens/rate/RateFragmentArgs.java
+ com.clickEat.ug.screens.rate.RateFragmentArgs
+ com.clickEat.ug.screens.rate.RateFragmentArgs$1
+ com.clickEat.ug.screens.rate.RateFragmentArgs$Builder
+com/clickEat/ug/databinding/ProductImageLayoutBindingImpl.java
+ com.clickEat.ug.databinding.ProductImageLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentMenuBinding.java
+ com.clickEat.ug.databinding.FragmentMenuBinding
+com/clickEat/ug/database/AppDataBase_Impl.java
+ com.clickEat.ug.database.AppDataBase_Impl
+ com.clickEat.ug.database.AppDataBase_Impl$1
+com/clickEat/ug/screens/custom_categories/MainFragmentDirections.java
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$1
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$ActionMainFragmentToCategoryFragment
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$ActionMainFragmentToCheckoutFragment
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$ActionMainFragmentToCommentFragment
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$ActionMainFragmentToEditAddressFragment2
+ com.clickEat.ug.screens.custom_categories.MainFragmentDirections$ActionMainFragmentToSubCatProductsFragment
+com/clickEat/ug/screens/categories/CategoryFragmentArgs.java
+ com.clickEat.ug.screens.categories.CategoryFragmentArgs
+ com.clickEat.ug.screens.categories.CategoryFragmentArgs$1
+ com.clickEat.ug.screens.categories.CategoryFragmentArgs$Builder
+com/clickEat/ug/databinding/CustomCategoriesLayoutBindingImpl.java
+ com.clickEat.ug.databinding.CustomCategoriesLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentRateBinding.java
+ com.clickEat.ug.databinding.FragmentRateBinding
+com/clickEat/ug/databinding/ItemBindingImpl.java
+ com.clickEat.ug.databinding.ItemBindingImpl
+com/clickEat/ug/databinding/FragmentCheckoutBinding.java
+ com.clickEat.ug.databinding.FragmentCheckoutBinding
+com/clickEat/ug/databinding/FragmentMenuBindingImpl.java
+ com.clickEat.ug.databinding.FragmentMenuBindingImpl
+com/clickEat/ug/databinding/CommentItemLayoutBinding.java
+ com.clickEat.ug.databinding.CommentItemLayoutBinding
+com/clickEat/ug/screens/edit_address/EditAddressFragmentArgs.java
+ com.clickEat.ug.screens.edit_address.EditAddressFragmentArgs
+ com.clickEat.ug.screens.edit_address.EditAddressFragmentArgs$1
+ com.clickEat.ug.screens.edit_address.EditAddressFragmentArgs$Builder
+com/clickEat/ug/DataBinderMapperImpl.java
+ com.clickEat.ug.DataBinderMapperImpl
+ com.clickEat.ug.DataBinderMapperImpl$InnerBrLookup
+ com.clickEat.ug.DataBinderMapperImpl$InnerLayoutIdLookup
+com/clickEat/ug/databinding/MoreProductsLayoutBindingImpl.java
+ com.clickEat.ug.databinding.MoreProductsLayoutBindingImpl
+com/clickEat/ug/screens/login/LoginFragmentDirections.java
+ com.clickEat.ug.screens.login.LoginFragmentDirections
+com/clickEat/ug/screens/rate/RateFragmentDirections.java
+ com.clickEat.ug.screens.rate.RateFragmentDirections
+ com.clickEat.ug.screens.rate.RateFragmentDirections$1
+ com.clickEat.ug.screens.rate.RateFragmentDirections$ActionRateFragmentToCommentFragment
+com/clickEat/ug/databinding/FragmentOrdersBindingImpl.java
+ com.clickEat.ug.databinding.FragmentOrdersBindingImpl
+com/clickEat/ug/databinding/TopCategoryItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.TopCategoryItemLayoutBindingImpl
+com/clickEat/ug/databinding/OrderItemSummaryLayoutBindingImpl.java
+ com.clickEat.ug.databinding.OrderItemSummaryLayoutBindingImpl
+com/clickEat/ug/screens/search/SearchFragmentDirections.java
+ com.clickEat.ug.screens.search.SearchFragmentDirections
+ com.clickEat.ug.screens.search.SearchFragmentDirections$1
+ com.clickEat.ug.screens.search.SearchFragmentDirections$ActionSearchFragmentToCommentFragment
+com/clickEat/ug/screens/account/PersonalInfoFragmentDirections.java
+ com.clickEat.ug.screens.account.PersonalInfoFragmentDirections
+ com.clickEat.ug.screens.account.PersonalInfoFragmentDirections$1
+ com.clickEat.ug.screens.account.PersonalInfoFragmentDirections$ActionPersonalInfoFragment2ToEditAddressFragment2
+com/clickEat/ug/screens/checkout/CheckoutFragmentArgs.java
+ com.clickEat.ug.screens.checkout.CheckoutFragmentArgs
+ com.clickEat.ug.screens.checkout.CheckoutFragmentArgs$1
+ com.clickEat.ug.screens.checkout.CheckoutFragmentArgs$Builder
+com/clickEat/ug/database/DatabaseDao_Impl.java
+ com.clickEat.ug.database.DatabaseDao_Impl
+ com.clickEat.ug.database.DatabaseDao_Impl$1
+ com.clickEat.ug.database.DatabaseDao_Impl$10
+ com.clickEat.ug.database.DatabaseDao_Impl$11
+ com.clickEat.ug.database.DatabaseDao_Impl$12
+ com.clickEat.ug.database.DatabaseDao_Impl$13
+ com.clickEat.ug.database.DatabaseDao_Impl$14
+ com.clickEat.ug.database.DatabaseDao_Impl$15
+ com.clickEat.ug.database.DatabaseDao_Impl$16
+ com.clickEat.ug.database.DatabaseDao_Impl$17
+ com.clickEat.ug.database.DatabaseDao_Impl$18
+ com.clickEat.ug.database.DatabaseDao_Impl$19
+ com.clickEat.ug.database.DatabaseDao_Impl$2
+ com.clickEat.ug.database.DatabaseDao_Impl$20
+ com.clickEat.ug.database.DatabaseDao_Impl$21
+ com.clickEat.ug.database.DatabaseDao_Impl$22
+ com.clickEat.ug.database.DatabaseDao_Impl$23
+ com.clickEat.ug.database.DatabaseDao_Impl$24
+ com.clickEat.ug.database.DatabaseDao_Impl$25
+ com.clickEat.ug.database.DatabaseDao_Impl$26
+ com.clickEat.ug.database.DatabaseDao_Impl$27
+ com.clickEat.ug.database.DatabaseDao_Impl$28
+ com.clickEat.ug.database.DatabaseDao_Impl$29
+ com.clickEat.ug.database.DatabaseDao_Impl$3
+ com.clickEat.ug.database.DatabaseDao_Impl$30
+ com.clickEat.ug.database.DatabaseDao_Impl$4
+ com.clickEat.ug.database.DatabaseDao_Impl$5
+ com.clickEat.ug.database.DatabaseDao_Impl$6
+ com.clickEat.ug.database.DatabaseDao_Impl$7
+ com.clickEat.ug.database.DatabaseDao_Impl$8
+ com.clickEat.ug.database.DatabaseDao_Impl$9
+com/clickEat/ug/databinding/FragmentCheckoutBindingImpl.java
+ com.clickEat.ug.databinding.FragmentCheckoutBindingImpl
+com/clickEat/ug/databinding/OrderItemLayoutBinding.java
+ com.clickEat.ug.databinding.OrderItemLayoutBinding
+com/clickEat/ug/databinding/DrinksSubcatitemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.DrinksSubcatitemLayoutBindingImpl
+com/clickEat/ug/screens/account/AccountFragmentDirections.java
+ com.clickEat.ug.screens.account.AccountFragmentDirections
+ com.clickEat.ug.screens.account.AccountFragmentDirections$1
+ com.clickEat.ug.screens.account.AccountFragmentDirections$ActionAccountFragmentToEditAddressFragment2
+com/clickEat/ug/databinding/CorouselViewLayoutBinding.java
+ com.clickEat.ug.databinding.CorouselViewLayoutBinding
+com/clickEat/ug/databinding/ProductImageLayoutBinding.java
+ com.clickEat.ug.databinding.ProductImageLayoutBinding
+com/clickEat/ug/screens/drinksbasedonsubcat/ListDrinksFragmentArgs.java
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentArgs
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentArgs$1
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentArgs$Builder
+com/clickEat/ug/databinding/OrderItemSummaryLayoutBinding.java
+ com.clickEat.ug.databinding.OrderItemSummaryLayoutBinding
+com/clickEat/ug/databinding/FragmentHomeBindingImpl.java
+ com.clickEat.ug.databinding.FragmentHomeBindingImpl
+com/clickEat/ug/SecondFragmentDirections.java
+ com.clickEat.ug.SecondFragmentDirections
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/clickEat/ug/databinding/CartItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.CartItemLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentRateBindingImpl.java
+ com.clickEat.ug.databinding.FragmentRateBindingImpl
+com/clickEat/ug/databinding/CustomCategoriesLayoutBinding.java
+ com.clickEat.ug.databinding.CustomCategoriesLayoutBinding
+com/clickEat/ug/databinding/HomeCategoryItemsBinding.java
+ com.clickEat.ug.databinding.HomeCategoryItemsBinding
+com/clickEat/ug/databinding/RateProductLayoutBinding.java
+ com.clickEat.ug.databinding.RateProductLayoutBinding
+com/clickEat/ug/databinding/FragmentListDrinksBindingImpl.java
+ com.clickEat.ug.databinding.FragmentListDrinksBindingImpl
+com/clickEat/ug/screens/resturants/ResturantsFragmentDirections.java
+ com.clickEat.ug.screens.resturants.ResturantsFragmentDirections
+ com.clickEat.ug.screens.resturants.ResturantsFragmentDirections$1
+ com.clickEat.ug.screens.resturants.ResturantsFragmentDirections$ActionResturantsFragmentToMenuFragment
+com/clickEat/ug/screens/drinks/DrinksFragmentDirections.java
+ com.clickEat.ug.screens.drinks.DrinksFragmentDirections
+ com.clickEat.ug.screens.drinks.DrinksFragmentDirections$1
+ com.clickEat.ug.screens.drinks.DrinksFragmentDirections$ActionDrinksFragmentToListDrinksFragment
+com/clickEat/ug/databinding/SubcatCustomLayoutBinding.java
+ com.clickEat.ug.databinding.SubcatCustomLayoutBinding
+com/clickEat/ug/databinding/FragmentCategoryBinding.java
+ com.clickEat.ug.databinding.FragmentCategoryBinding
+com/clickEat/ug/databinding/NewAddressLayoutBindingImpl.java
+ com.clickEat.ug.databinding.NewAddressLayoutBindingImpl
+com/clickEat/ug/databinding/DealsOfTheDayLayoutBinding.java
+ com.clickEat.ug.databinding.DealsOfTheDayLayoutBinding
+com/clickEat/ug/databinding/OrderItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.OrderItemLayoutBindingImpl
+com/clickEat/ug/databinding/ItemBindingV26Impl.java
+ com.clickEat.ug.databinding.ItemBindingV26Impl
+com/clickEat/ug/databinding/AddressItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.AddressItemLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentEditAddressBinding.java
+ com.clickEat.ug.databinding.FragmentEditAddressBinding
+com/clickEat/ug/screens/menu/MenuFragmentArgs.java
+ com.clickEat.ug.screens.menu.MenuFragmentArgs
+ com.clickEat.ug.screens.menu.MenuFragmentArgs$1
+ com.clickEat.ug.screens.menu.MenuFragmentArgs$Builder
+com/clickEat/ug/databinding/CommentItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.CommentItemLayoutBindingImpl
+com/clickEat/ug/databinding/ActivityMainBinding.java
+ com.clickEat.ug.databinding.ActivityMainBinding
+com/clickEat/ug/databinding/NewAddressLayoutBinding.java
+ com.clickEat.ug.databinding.NewAddressLayoutBinding
+com/clickEat/ug/databinding/SubCategoryItemLayoutBinding.java
+ com.clickEat.ug.databinding.SubCategoryItemLayoutBinding
+com/clickEat/ug/databinding/FragmentCartBinding.java
+ com.clickEat.ug.databinding.FragmentCartBinding
+com/clickEat/ug/databinding/ActivityMainBindingImpl.java
+ com.clickEat.ug.databinding.ActivityMainBindingImpl
+com/clickEat/ug/FirstFragmentDirections.java
+ com.clickEat.ug.FirstFragmentDirections
+com/clickEat/ug/databinding/OrderCartItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.OrderCartItemLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentCommentBindingImpl.java
+ com.clickEat.ug.databinding.FragmentCommentBindingImpl
+com/clickEat/ug/generated/callback/OnClickListener.java
+ com.clickEat.ug.generated.callback.OnClickListener
+ com.clickEat.ug.generated.callback.OnClickListener$Listener
+com/clickEat/ug/databinding/ItemInformationBindingImpl.java
+ com.clickEat.ug.databinding.ItemInformationBindingImpl
+com/clickEat/ug/databinding/FragmentSubCatProductsBinding.java
+ com.clickEat.ug.databinding.FragmentSubCatProductsBinding
+com/clickEat/ug/databinding/ItemBinding.java
+ com.clickEat.ug.databinding.ItemBinding
+com/clickEat/ug/databinding/ChangePasswordLayoutBindingImpl.java
+ com.clickEat.ug.databinding.ChangePasswordLayoutBindingImpl
+com/clickEat/ug/BuildConfig.java
+ com.clickEat.ug.BuildConfig
+com/clickEat/ug/databinding/FragmentOrdersBinding.java
+ com.clickEat.ug.databinding.FragmentOrdersBinding
+com/clickEat/ug/databinding/AllMenuItemsBindingImpl.java
+ com.clickEat.ug.databinding.AllMenuItemsBindingImpl
+com/clickEat/ug/databinding/FragmentResturantsBindingImpl.java
+ com.clickEat.ug.databinding.FragmentResturantsBindingImpl
+com/clickEat/ug/screens/sub_categories/SubCategoryLayoutFragmentDirections.java
+ com.clickEat.ug.screens.sub_categories.SubCategoryLayoutFragmentDirections
+ com.clickEat.ug.screens.sub_categories.SubCategoryLayoutFragmentDirections$1
+ com.clickEat.ug.screens.sub_categories.SubCategoryLayoutFragmentDirections$ActionSubCategoryLayoutFragmentToSubCatProductsFragment
+com/clickEat/ug/databinding/NoInternetConnectionBinding.java
+ com.clickEat.ug.databinding.NoInternetConnectionBinding
+com/clickEat/ug/databinding/DrinksSubcatitemLayoutBinding.java
+ com.clickEat.ug.databinding.DrinksSubcatitemLayoutBinding
+com/clickEat/ug/databinding/ProductsRecommendedLayoutBinding.java
+ com.clickEat.ug.databinding.ProductsRecommendedLayoutBinding
+com/clickEat/ug/databinding/FragmentAccountBindingImpl.java
+ com.clickEat.ug.databinding.FragmentAccountBindingImpl
+com/clickEat/ug/databinding/ItemInformationBinding.java
+ com.clickEat.ug.databinding.ItemInformationBinding
+com/clickEat/ug/screens/drinksbasedonsubcat/ListDrinksFragmentDirections.java
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentDirections
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentDirections$1
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentDirections$ActionListDrinksFragmentToCommentFragment
+ com.clickEat.ug.screens.drinksbasedonsubcat.ListDrinksFragmentDirections$ActionListDrinksFragmentToRateFragment2
+com/clickEat/ug/databinding/FragmentPaymentsBindingImpl.java
+ com.clickEat.ug.databinding.FragmentPaymentsBindingImpl
+com/clickEat/ug/databinding/FragmentMyStepperBindingImpl.java
+ com.clickEat.ug.databinding.FragmentMyStepperBindingImpl
+com/clickEat/ug/databinding/TopCategoryItemLayoutBinding.java
+ com.clickEat.ug.databinding.TopCategoryItemLayoutBinding
+com/clickEat/ug/databinding/MenuCustomLayoutBinding.java
+ com.clickEat.ug.databinding.MenuCustomLayoutBinding
+com/clickEat/ug/databinding/FragmentSubCategoryLayoutBinding.java
+ com.clickEat.ug.databinding.FragmentSubCategoryLayoutBinding
+com/clickEat/ug/screens/cart/CartFragmentDirections.java
+ com.clickEat.ug.screens.cart.CartFragmentDirections
+ com.clickEat.ug.screens.cart.CartFragmentDirections$1
+ com.clickEat.ug.screens.cart.CartFragmentDirections$ActionCartFragmentToCheckoutFragment
+com/clickEat/ug/databinding/FragmentPaymentsBinding.java
+ com.clickEat.ug.databinding.FragmentPaymentsBinding
+com/clickEat/ug/databinding/FragmentCategoryBindingImpl.java
+ com.clickEat.ug.databinding.FragmentCategoryBindingImpl
+com/clickEat/ug/databinding/AddressLayoutBindingImpl.java
+ com.clickEat.ug.databinding.AddressLayoutBindingImpl
+com/clickEat/ug/DataBindingTriggerClass.java
+ com.clickEat.ug.DataBindingTriggerClass
+com/clickEat/ug/screens/subcatproducts/SubCatProductsFragmentArgs.java
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentArgs
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentArgs$1
+ com.clickEat.ug.screens.subcatproducts.SubCatProductsFragmentArgs$Builder
+com/clickEat/ug/databinding/FragmentSearchBinding.java
+ com.clickEat.ug.databinding.FragmentSearchBinding
+com/clickEat/ug/databinding/ProductsRecommendedLayoutBindingImpl.java
+ com.clickEat.ug.databinding.ProductsRecommendedLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentEditAddressBindingImpl.java
+ com.clickEat.ug.databinding.FragmentEditAddressBindingImpl
+com/clickEat/ug/databinding/OrderCartItemLayoutBinding.java
+ com.clickEat.ug.databinding.OrderCartItemLayoutBinding
+com/clickEat/ug/databinding/FragmentCartBindingImpl.java
+ com.clickEat.ug.databinding.FragmentCartBindingImpl
+com/clickEat/ug/databinding/FragmentLoginBindingImpl.java
+ com.clickEat.ug.databinding.FragmentLoginBindingImpl
+com/clickEat/ug/databinding/SampleProductsFromDifferentSubcatLayoutBinding.java
+ com.clickEat.ug.databinding.SampleProductsFromDifferentSubcatLayoutBinding
+com/clickEat/ug/databinding/ResturantsBindingImpl.java
+ com.clickEat.ug.databinding.ResturantsBindingImpl
+com/clickEat/ug/databinding/HomeCategoryItemsBindingImpl.java
+ com.clickEat.ug.databinding.HomeCategoryItemsBindingImpl
+com/clickEat/ug/databinding/SampleProductsFromDifferentSubcatLayoutBindingImpl.java
+ com.clickEat.ug.databinding.SampleProductsFromDifferentSubcatLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentSearchBindingImpl.java
+ com.clickEat.ug.databinding.FragmentSearchBindingImpl
+com/clickEat/ug/databinding/SubCategoryItemLayoutBindingImpl.java
+ com.clickEat.ug.databinding.SubCategoryItemLayoutBindingImpl
+com/clickEat/ug/databinding/DealsOfTheDayLayoutBindingImpl.java
+ com.clickEat.ug.databinding.DealsOfTheDayLayoutBindingImpl
+com/clickEat/ug/databinding/SubcatCustomLayoutBindingImpl.java
+ com.clickEat.ug.databinding.SubcatCustomLayoutBindingImpl
+com/clickEat/ug/databinding/HomeSubCategoriesLayoutBindingImpl.java
+ com.clickEat.ug.databinding.HomeSubCategoriesLayoutBindingImpl
+com/clickEat/ug/databinding/CustomCatItemsHolderBindingImpl.java
+ com.clickEat.ug.databinding.CustomCatItemsHolderBindingImpl
+com/clickEat/ug/databinding/FragmentMainBindingImpl.java
+ com.clickEat.ug.databinding.FragmentMainBindingImpl
+com/clickEat/ug/databinding/CorouselViewLayoutBindingImpl.java
+ com.clickEat.ug.databinding.CorouselViewLayoutBindingImpl
+com/clickEat/ug/databinding/FragmentSubCategoryLayoutBindingImpl.java
+ com.clickEat.ug.databinding.FragmentSubCategoryLayoutBindingImpl
