@@ -1,0 +1,47 @@
+Project Overview
+
+This repository contains a mobile application project that I originally developed in 2020. The project was an exciting learning experience at the time, and I am now revisiting it to refactor the code and bring it up to speed with the latest best practices in Kotlin.
+
+About the Project
+
+Type: Mobile Application
+
+Initial Development Year: 2020
+
+Primary Language: Kotlin
+
+The application was designed with a specific set of features and functionality in mind, but as software development practices evolve, so must the code. The goal is to modernize the codebase by:
+
+Improving readability and maintainability.
+
+Incorporating modern Kotlin features (e.g., coroutines, extension functions).
+
+Adopting a clean architecture.
+
+Enhancing performance and efficiency.
+
+Why Refactor?
+
+In the years since this project was first built, Kotlin and Android development have seen significant advancements. By revisiting this project:
+
+I aim to apply my current understanding of modern software development principles.
+
+This serves as an opportunity for continuous learning and skill sharpening.
+
+Work in Progress
+
+Please note that this repository is currently under active development. The code may not represent the final structure or follow all best practices yet, as it is being incrementally improved.
+
+Contributions
+
+At this stage, contributions are not being accepted since the focus is on personal learning and refactoring.
+
+Future Goals
+
+Once the refactoring process is complete, I plan to:
+
+Write detailed documentation about the updated architecture and features.
+
+Explore potential enhancements or features that could be added.
+
+Thank you for checking out this repository.
